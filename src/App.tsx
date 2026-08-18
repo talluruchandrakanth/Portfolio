@@ -257,7 +257,7 @@ function Navigation({
 
   const handleResumeClick = (e: React.MouseEvent) => {
     e.preventDefault();
-    openPDF('/documents/TalluruChandrakanth_Resume.pdf', 'Talluru Chandrakanth - Resume');
+    openPDF('/documents/Talluru_Chandrakanth_Resume.pdf', 'Talluru Chandrakanth - Resume');
   };
 
   return (
