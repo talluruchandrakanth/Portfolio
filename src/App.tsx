@@ -701,7 +701,7 @@ function SkillsSection() {
       title: 'Libraries & Frameworks',
       icon: Layers,
       skills: [
-        { name: 'PyTorch', level: 85 }
+        { name: 'PyTorch', level: 85 },
         { name: 'Pandas', level: 80 },
         { name: 'NumPy', level: 80 },
         { name: 'Matplotlib', level: 80 },
