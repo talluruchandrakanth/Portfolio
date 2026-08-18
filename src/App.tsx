@@ -685,8 +685,7 @@ function SkillsSection() {
       icon: Code2,
       skills: [
         { name: 'Python', level: 90 },
-        { name: 'Java', level: 80 },
-        { name: 'SQL', level: 85 },
+        { name: 'SQL', level: 80 },
       ],
     },
     {
@@ -702,10 +701,10 @@ function SkillsSection() {
       title: 'Libraries & Frameworks',
       icon: Layers,
       skills: [
-        { name: 'React.js', level: 85 },
-        { name: 'Pandas', level: 90 },
-        { name: 'NumPy', level: 90 },
-        { name: 'Matplotlib', level: 85 },
+        { name: 'PyTorch', level: 85 }
+        { name: 'Pandas', level: 80 },
+        { name: 'NumPy', level: 80 },
+        { name: 'Matplotlib', level: 80 },
       ],
     },
     {
