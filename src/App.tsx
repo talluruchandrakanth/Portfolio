@@ -937,15 +937,6 @@ function ProjectsSection() {
         'A high-performance event synchronization platform featuring role-based access control, real-time ticket management, and a normalized relational database architecture handling 1000+ concurrent bookings.',
       github: 'https://github.com/talluruchandrakanth/real-time-event-synchronization',
     },
-    {
-      title: 'Student Course Portal',
-      subtitle: 'Angular Developer',
-      tech: ['Angular', 'TypeScript', 'NgRx', 'RxJS', 'Reactive Forms', 'Vitest', 'Angular TestBed'],
-      highlights: ['100% unit test coverage', 'NgRx state management', 'RxJS async streams', 'Standalone Components'],
-      description:
-        'A scalable SPA using Angular Standalone Components and modern control flow syntax to manage course catalogs and student enrollments, with NgRx global state management, RxJS observables with retry logic, and 100% unit test coverage via Angular TestBed.',
-      github: 'https://github.com/talluruchandrakanth/AngularHandsON_TalluruChandrakanth',
-    },
   ];
 
   return (
