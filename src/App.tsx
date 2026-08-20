@@ -283,7 +283,7 @@ function Navigation({
               <span className="text-white font-bold text-sm font-heading">TC</span>
             </div>
             <span className="font-bold text-lg font-heading text-dark-800 dark:text-white hidden sm:block">
-              Chandrakanth
+              Talluru Chandrakanth
             </span>
           </a>
 
