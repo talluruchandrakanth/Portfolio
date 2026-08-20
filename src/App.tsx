@@ -1562,7 +1562,7 @@ function Footer() {
               <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-600 to-accent-500 flex items-center justify-center">
                 <span className="text-white font-bold text-sm font-heading">TC</span>
               </div>
-              <span className="font-bold text-lg font-heading">Chandrakanth</span>
+              <span className="font-bold text-lg font-heading">Talluru Chandrakanth</span>
             </div>
             <p className="text-dark-400 mb-6">
                 AI & Data Science Engineer passionate about building intelligent solutions that make a difference.
